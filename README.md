@@ -7,4 +7,4 @@ Gaussian Naive Bayes (NB), Logistic Regression, K Nearest Neighbours (KNN), Line
  (LDA) and Quadratic Discriminate Analysis (QDA), Partial Least Squares Discriminate Analysis
 - Clustering: Kmeans, AGC clustering, DBSCAN
 
-Reading : Introduction to Statistical Learning: https://www.statlearning.com/
+- Report PDF attached.
