@@ -1,5 +1,5 @@
 # Machine-Learning-
-Module Project For Machine Learning, looking at the relationship between sprectrum reading and viral load severity. Using both suppervised and unsupervised approaches for prediction viral load prediction. Then, classifying viruses using different algorithms,
+Module Project For Machine Learning, looking at the relationship between sprectrum reading and viral load severity. Using both suppervised and unsupervised approaches for viral load prediction. Then, classifying viruses using different algorithms,
 achieving ~90% accuracy.
 
 - Feature Engineering: PCA, PLS, Lasso
