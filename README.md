@@ -10,6 +10,3 @@ Gaussian Naive Bayes (NB), Logistic Regression, K Nearest Neighbours (KNN), Line
 - Clustering: Kmeans, AGC clustering, DBSCAN
 
 - Report PDF attached.
-- Some Highlights: 
-
-![image](https://github.com/user-attachments/assets/dce80f13-4177-492d-bd3a-3a9c4be25132)
